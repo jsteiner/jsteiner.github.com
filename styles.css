@@ -15,7 +15,8 @@ a {
 a:hover {
 	color: #F80; }
 h1 {
-  font-weight: 700;
+  font-family: "alber-new-1","alber-new-2", 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: bold;
 	font-size: 30px; }
 h2 {
   font-weight: 500;
