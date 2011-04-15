@@ -17,7 +17,7 @@ a:hover {
 h1 {
   font-family: "alber-new-1","alber-new-2", 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: bold;
-	font-size: 30px; }
+	font-size: 34px; }
 h2 {
   font-weight: 500;
 	font-size: 20px; }
@@ -28,5 +28,3 @@ p {
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 24px; }
-.italic {
-  font-style: italic; }
