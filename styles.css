@@ -7,7 +7,7 @@ html {
 body {
   background: #FFF;
 	padding: 140px 80px;
-  font-family: "museo-sans-1","museo-sans-2", 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
 	color: #666; }
 a { 
   color: #08F;
@@ -15,11 +15,10 @@ a {
 a:hover {
 	color: #F80; }
 h1 {
-  font-family: "alber-new-1","alber-new-2", 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: bold;
-	font-size: 34px; }
+	font-size: 30px; }
 h2 {
-  font-weight: 500;
+  font-weight: bold;
 	font-size: 20px; }
 div {
 	width: 400px; }
@@ -40,7 +39,7 @@ p {
 
 	body {
 	width: 100%;
-	padding: 35px 20px; }
+	padding: 35px 25px; }
 
 	div {
 	  width: 250px; }
