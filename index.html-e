@@ -1,34 +1,20 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
-	<meta charset="UTF-8">
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Josh Steiner - Web Developer</title>
-	<link rel="stylesheet" href="styles.css" />
-	
-	<!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
-	<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
+  <link rel="stylesheet" href="styles.css" />
+
+  <!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
+  <script type="text/javascript" src="js/css3-mediaqueries.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Merriweather:900' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<div>
-		<h1>Josh Steiner</h1>
-		<h2>Web Developer</h2>
-    <p>I solve problems. It's my passion and profession. My current focus is on Rails, design, and making <a href="http://www.majorleaguegaming.com">websites</a> for the world&rsquo;s largest competitive video game league.</p>
-		<p>Feel free to reach me via
-			<script type="text/javascript">
-			//<![CDATA[
-			<!--
-			var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
-			"=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
-			".substr(0,ol);}f(\")63,\\\"IAKFLSr\\\\DV500\\\\100\\\\600\\\\310\\\\000\\\\" +
-			"ZA>C<b;1(2.yz310\\\\38z!7?9*:>&310\\\\\\\"\\\\:'-|*0/+ -530\\\\b000\\\\Z^HQ" +
-			"030\\\\Vn\\\\720\\\\430\\\\]^TDF\\\\\\\\Z200\\\\_DLEREJ@\\\"(f};o nruter};)" +
-			")++y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;2=*y))y+63(>i(fi{)++i;l" +
-			"<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                   ;
-			while(x=eval(x));
-			//-->
-			//]]>
-			</script> or check me out on <a href="http://github.com/jsteiner">github</a>. You can  also take a peek at my <a href="/josh_steiner_resume.pdf" alt="resume">resume</a>.</p>
-	</div>
+  <div>
+    <h1>Josh Steiner</h1>
+    <p>I am a software engineer interested in making great web applications. I have worked at <a href="http://thoughtbot.com">thoughtbot</a> and <a href="http://majorleaguegaming.com">Major League Gaming</a>. Best of all, <a href="./josh_steiner_resume.pdf" alt="resume">I'm available for hire</a>.</p>
+    <p>You should check me out on <a href="http://github.com/jsteiner">github</a> and <a href="http://twitter.com/josh_steiner">twitter</a>.</p>
+  </div>
 </body>
 </html>
