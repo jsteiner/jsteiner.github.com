@@ -13,7 +13,7 @@
 <body>
   <div>
     <h1>Josh Steiner</h1>
-    <p>I am a software engineer interested in making great web applications. I have worked at <a href="http://thoughtbot.com">thoughtbot</a> and <a href="http://majorleaguegaming.com">Major League Gaming</a>. Best of all, <a href="./josh_steiner_resume.pdf" alt="resume">I'm available for hire</a>.</p>
+    <p>I am a software engineer aspiring to create exceptional web applications. I have worked at <a href="http://thoughtbot.com">thoughtbot</a> and <a href="http://majorleaguegaming.com">Major League Gaming</a>. Best of all, <a href="./josh_steiner_resume.pdf" alt="resume">I'm available for hire</a>.</p>
     <p>You should check me out on <a href="http://github.com/jsteiner">github</a> and <a href="http://twitter.com/josh_steiner">twitter</a>.</p>
   </div>
 </body>
