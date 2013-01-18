@@ -25,8 +25,10 @@
 <body>
   <div>
     <h1>Josh Steiner</h1>
-    <p>I am a software engineer aspiring to create exceptional web applications. I have worked at <a href="http://thoughtbot.com">thoughtbot</a> and <a href="http://majorleaguegaming.com">Major League Gaming</a>. Best of all, <a href="./josh_steiner_resume.pdf" alt="resume">I'm available for hire</a>.</p>
-    <p>You should check me out on <a href="http://github.com/jsteiner">github</a> and <a href="http://twitter.com/josh_steiner">twitter</a>.</p>
+    <p>I am a web developer focused on crafting smart and easy to use applications.
+       I work at <a href="http://thoughtbot.com">thoughtbot</a> in Boston.
+    </p>
+    <p>You should <a href="http://twitter.com/josh_steiner">follow me on twitter</a>.</p>
   </div>
 </body>
 </html>
