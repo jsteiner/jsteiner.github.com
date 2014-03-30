@@ -1,0 +1,29 @@
+#home {
+  width: 400px;
+  padding: 140px 80px;
+
+  p {
+    margin-top: 1.4em;
+    font-size: 1.1em;
+    font-weight: 300;
+  }
+}
+
+/* Mobile */
+
+@media handheld, only screen and (max-width: 767px) {
+
+  body {
+    font-size: 16px;
+    -webkit-text-size-adjust: none;
+  }
+
+  body {
+    width: 100%;
+    padding: 35px 25px;
+  }
+
+  #home {
+    width: 250px;
+  }
+}
