@@ -1,0 +1,182 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/** Colors **/
+@font-face {
+  font-family: 'fontello';
+  src: url("../font/fontello.eot?84523088");
+  src: url("../font/fontello.eot?84523088#iefix") format("embedded-opentype"), url("../font/fontello.woff?84523088") format("woff"), url("../font/fontello.ttf?84523088") format("truetype"), url("../font/fontello.svg?84523088#fontello") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?84523088#fontello') format('svg');
+  }
+}
+*/
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */ }
+
+.icon-twitter:before {
+  content: '\e801';
+  font-size: 0.8em; }
+
+.icon-github-circled:before {
+  content: '\e800'; }
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+html {
+  height: 100%; }
+
+body {
+  background: #FFF;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5em; }
+
+a {
+  color: #08F;
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: underline; }
+
+h1 {
+  font-family: 'EB Garamond', serif;
+  font-weight: bold;
+  font-size: 2em; }
+
+h2 {
+  font-weight: bold;
+  font-size: 1.5em; }
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+#home {
+  width: 400px;
+  padding: 140px 80px; }
+  #home p {
+    margin-top: 1.4em;
+    font-size: 1.1em;
+    font-weight: 300; }
+
+/* Mobile */
+@media handheld, only screen and (max-width: 767px) {
+  body {
+    font-size: 16px;
+    -webkit-text-size-adjust: none; }
+
+  body {
+    width: 100%;
+    padding: 35px 25px; }
+
+  #home {
+    width: 250px; } }
+#resume {
+  width: 900px;
+  margin: 5em 0;
+  *zoom: 1;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+  color: #111; }
+  #resume:before, #resume:after {
+    content: " ";
+    display: table; }
+  #resume:after {
+    clear: both; }
+  #resume a {
+    color: #aaaaaa; }
+  #resume .filler {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 14.70196%; }
+    #resume .filler:last-child {
+      margin-right: 0; }
+  #resume span {
+    color: #aaaaaa;
+    font-weight: 200; }
+  #resume section {
+    *zoom: 1;
+    max-width: 68em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em; }
+    #resume section:before, #resume section:after {
+      content: " ";
+      display: table; }
+    #resume section:after {
+      clear: both; }
+    #resume section h1 {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 14.70196%;
+      font-size: 1.2em;
+      margin-top: 2px;
+      color: #aaaaaa; }
+      #resume section h1:last-child {
+        margin-right: 0; }
+    #resume section .content {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 82.94039%;
+      margin-right: 0; }
+      #resume section .content:last-child {
+        margin-right: 0; }
+    #resume section h2 {
+      font-size: 1.2em;
+      margin-bottom: 0.5em; }
+  #resume .contact a, #resume .contact span {
+    margin-right: 40px; }
+  #resume .contact span {
+    font-weight: normal; }
+  #resume .experience .content .date {
+    display: block;
+    float: right;
+    font-size: 0.9em; }
+  #resume .experience .content li {
+    margin-bottom: 2.5em; }
+  #resume .skillset .content div {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%; }
+    #resume .skillset .content div:last-child {
+      margin-right: 0; }
