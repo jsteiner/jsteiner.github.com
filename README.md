@@ -1,5 +1,3 @@
-# [jsteiner.me](http://jsteiner.me)
-
 ## Development
 
 Watch and compile Jekyll:
