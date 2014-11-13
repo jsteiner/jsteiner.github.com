@@ -6,9 +6,8 @@ title: Josh Steiner - Web Developer
 <div id='home'>
   <h1>josh steiner</h1>
   <p>
-    developer at <a href="http://thoughtbot.com">thoughtbot</a>
-  <br>
-    instructor at <a href="http://thisismetis.com">metis</a>
+    <a href="https://twitter.com/josh_steiner">twitter</a>
+    <a href="https://github.com/jsteiner">github</a>
+    <a href="/resume">resume</a>
   </p>
-  <p><a href="http://twitter.com/josh_steiner">i tweet things</a>.</p>
 </div>

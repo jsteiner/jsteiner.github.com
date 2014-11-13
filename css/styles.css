@@ -92,6 +92,8 @@ ul, ol {
     margin-top: 1.4em;
     font-size: 1.1em;
     font-weight: 300; }
+  #home a {
+    margin-right: 23px; }
 
 /* Mobile */
 @media handheld, only screen and (max-width: 767px) {
@@ -115,7 +117,7 @@ ul, ol {
   #resume:after {
     clear: both; }
   #resume a {
-    color: #aaaaaa; }
+    color: #AAA; }
   #resume .filler {
     float: left;
     display: block;
@@ -124,7 +126,7 @@ ul, ol {
     #resume .filler:last-child {
       margin-right: 0; }
   #resume span {
-    color: #aaaaaa;
+    color: #AAA;
     font-weight: 200; }
   #resume section {
     *zoom: 1;
@@ -144,7 +146,7 @@ ul, ol {
       width: 14.70196%;
       font-size: 1.2em;
       margin-top: 2px;
-      color: #aaaaaa; }
+      color: #AAA; }
       #resume section h1:last-child {
         margin-right: 0; }
     #resume section .content {
@@ -162,6 +164,8 @@ ul, ol {
     margin-right: 40px; }
   #resume .contact span {
     font-weight: normal; }
+  #resume .contact .icon-twitter {
+    margin-right: 4px; }
   #resume .experience .content .date {
     display: block;
     float: right;
@@ -175,3 +179,5 @@ ul, ol {
     width: 31.76157%; }
     #resume .skillset .content div:last-child {
       margin-right: 0; }
+
+/*# sourceMappingURL=styles.css.map */

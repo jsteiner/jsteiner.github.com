@@ -48,6 +48,10 @@
     span {
       font-weight: normal;
     }
+
+    .icon-twitter {
+      margin-right: 4px;
+    }
   }
 
   .experience .content {
