@@ -166,11 +166,11 @@ ul, ol {
     font-weight: normal; }
   #resume .contact .icon-twitter {
     margin-right: 4px; }
-  #resume .experience .content .date {
+  #resume .projects .content .date, #resume .experience .content .date {
     display: block;
     float: right;
     font-size: 0.9em; }
-  #resume .experience .content li:not(:last-child) {
+  #resume .projects .content li:not(:last-child), #resume .experience .content li:not(:last-child) {
     margin-bottom: 2.5em; }
   #resume .skillset .content div {
     float: left;
