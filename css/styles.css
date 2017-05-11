@@ -121,8 +121,8 @@ ul, ol {
   #resume .filler {
     float: left;
     display: block;
-    margin-right: 2.35765%;
-    width: 14.70196%; }
+    margin-right: 2.3576515979%;
+    width: 14.7019570017%; }
     #resume .filler:last-child {
       margin-right: 0; }
   #resume span {
@@ -142,8 +142,8 @@ ul, ol {
     #resume section h1 {
       float: left;
       display: block;
-      margin-right: 2.35765%;
-      width: 14.70196%;
+      margin-right: 2.3576515979%;
+      width: 14.7019570017%;
       font-size: 1.2em;
       margin-top: 2px;
       color: #AAA; }
@@ -152,8 +152,8 @@ ul, ol {
     #resume section .content {
       float: left;
       display: block;
-      margin-right: 2.35765%;
-      width: 82.94039%;
+      margin-right: 2.3576515979%;
+      width: 82.9403914003%;
       margin-right: 0; }
       #resume section .content:last-child {
         margin-right: 0; }
@@ -175,9 +175,11 @@ ul, ol {
   #resume .skillset .content div {
     float: left;
     display: block;
-    margin-right: 2.35765%;
-    width: 31.76157%; }
+    margin-right: 2.3576515979%;
+    width: 31.7615656014%; }
     #resume .skillset .content div:last-child {
       margin-right: 0; }
+  #resume p {
+    margin-bottom: 7px; }
 
 /*# sourceMappingURL=styles.css.map */
