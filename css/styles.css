@@ -106,6 +106,7 @@ ul, ol {
 #resume {
   width: 900px;
   margin: 5em 0;
+  padding-bottom: 3em;
   *zoom: 1;
   max-width: 68em;
   margin-left: auto;
